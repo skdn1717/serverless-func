@@ -2,14 +2,17 @@
     display: flex;
     flex-direction: column;
     line-height: normal;
-    width: 83%;
-    margin-left: 20px;
+    width: 84%;
+    margin-left: 19%;
     padding-bottom: 30px;
+    padding-right: 10px;
   }
 
   @media (max-width: 991px) {
     .func-column {
       width: 100%;
+      margin-left: 0;
+      padding-right: 10px;
     }
   }
 

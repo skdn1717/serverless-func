@@ -1,6 +1,6 @@
 import React from 'react';
 import ToggleSwitch from './ToggleSwitch.js';
-import ProjectCard from './ProjectCard';
+import ProjectCard from './ProjectCard.js';
 import './ContentArea.css';
 
 function ContentArea() {

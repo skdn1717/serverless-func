@@ -19,6 +19,9 @@
     width: 124px;
     font: 700 13px Nunito Sans, Arial, Helvetica, sans-serif;
   }
+  .paginationButton:hover {
+    background-color: black;
+  }
   
   .pageNumbers {
     color: #404040;
@@ -30,4 +33,11 @@
   
   .inactivePages {
     color: #939393;
+    margin-right: 10px;
+  }
+
+  .activePage{
+    color: #404040;
+    font-weight: 900;
+    margin-right: 10px;
   }
